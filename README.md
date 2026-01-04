@@ -1,4 +1,4 @@
-# SCHOOL bacterial-genome-assembly
+# bacterial-genome-assembly
 # Bacterial Genome Assembly Pipeline: SRR35523993
 
 This project provides a complete, automated workflow for the assembly and annotation of the *Escherichia coli* genome (Accession: SRR35523993).
